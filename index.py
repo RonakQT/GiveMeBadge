@@ -44,7 +44,7 @@ logo = f"""
 print(logo + inspect.cleandoc(f"""
     Hey, welcome to the active developer badge bot.
     Please enter your bot's token below to continue.
-
+MTE4Mjc3Mjk0MTcxNzUwNDAyMA.GW-BuA.s18WfwfnB9rZgWFpOrZL9R-30dA8YjBhiYJruU
     {Style.DIM}Don't close this application after entering the token
     You may close it after the bot has been invited and the command has been run{Style.RESET_ALL}
 """))
